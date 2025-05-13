@@ -1,0 +1,44 @@
+p{
+    color: rgb(50, 50, 50);
+}
+
+a.lizlink{
+    padding: 0px 20px;
+    margin: 0px 0px 0px 10px;
+    border-radius: 50px;
+    color: palevioletred;
+}
+
+a.lizlink:hover{
+    background-color: palevioletred;
+    color: white;
+}
+
+div.lizdivgrey{
+    background-color: rgb(238, 183, 183);
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px solid rgb(206, 156, 156);
+}
+
+h4.lizsmallh4{
+    font-size: 24px;
+    color: rgb(221, 101, 121);
+}
+
+section#about.resume-section{
+    background-color: aliceblue;
+}
+
+.lizcrop{
+    height: 400px;
+    overflow: hidden;
+    object-fit: cover;
+    margin: 10px 5px;
+    border-radius: 10px;
+}
+
+.spotify-wrapper {
+    width: 100%;
+    margin: 40px auto 0;
+}
