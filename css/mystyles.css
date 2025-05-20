@@ -23,11 +23,11 @@ div.lizdivgrey{
 
 h4.lizsmallh4{
     font-size: 24px;
-    color: rgb(221, 101, 121);
+    color: rgb(59, 55, 56);
 }
 
 section#about.resume-section{
-    background-color: aliceblue;
+    background-color: rgb(255, 240, 246);
 }
 
 .lizcrop{
@@ -47,3 +47,10 @@ section#about.resume-section{
 .lizserif{
      font-family: "Noto Serif TC", serif;
 }
+
+.lizcallmebg{
+    background-image: url("../assets/img/bgg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
