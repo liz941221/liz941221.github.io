@@ -43,3 +43,7 @@ section#about.resume-section{
     margin: 40px auto 0;
     float: left;
 }
+
+.lizserif{
+     font-family: "Noto Serif TC", serif;
+}
