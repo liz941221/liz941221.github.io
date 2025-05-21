@@ -3,7 +3,7 @@ p{
 }
 
 a.lizlink{
-    padding: 0px 20px;
+    padding: 0px 10px;
     margin: 0px 0px 0px 10px;
     border-radius: 50px;
     color: palevioletred;
@@ -17,12 +17,12 @@ a.lizlink:hover{
 div.lizdivgrey{
     background-color: rgb(238, 183, 183);
     padding: 20px;
-    border-radius: 10px;
+    border-radius: 20px;
     border: 2px solid rgb(206, 156, 156);
 }
 
 h4.lizsmallh4{
-    font-size: 24px;
+    font-size: 18px;
     color: rgb(59, 55, 56);
 }
 
@@ -49,8 +49,12 @@ section#about.resume-section{
 }
 
 .lizcallmebg{
-    background-image: url("../assets/img/bgg.jpg");
+    background-image: url("../assets/img/背景.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
+.my-table-header {
+  background-color: #ffb7d5 !important;
+  color: #ffffff;
+}

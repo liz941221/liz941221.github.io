@@ -1817,13 +1817,13 @@ progress {
 
 .table-primary {
   --bs-table-color: #000;
-  --bs-table-bg: #f2dfd7;
+  --bs-table-bg: #ff55c4;
   --bs-table-border-color: #dac9c2;
   --bs-table-striped-bg: #e6d4cc;
   --bs-table-striped-color: #000;
   --bs-table-active-bg: #dac9c2;
   --bs-table-active-color: #000;
-  --bs-table-hover-bg: #e0cec7;
+  --bs-table-hover-bg: #dac9c2;
   --bs-table-hover-color: #000;
   color: var(--bs-table-color);
   border-color: var(--bs-table-border-color);
@@ -8037,7 +8037,7 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: 	#FF9797!important;
+  color: rgb(246, 174, 202)!important;
 }
 
 .text-secondary {
@@ -10865,6 +10865,7 @@ p.lead {
   text-transform: uppercase;
   font-weight: 500;
   font-size: 1.5rem;
+  margin: 30px 0px 48px;
 }
 
 #sideNav {
