@@ -58,3 +58,14 @@ section#about.resume-section{
   background-color: #ffb7d5 !important;
   color: #ffffff;
 }
+
+.my-list li {
+    padding: 8px 16px;
+    transition: background-color 0.3s ease;
+  }
+
+  .my-list li:hover {
+    background-color: #ffe4eeaf;
+    cursor: pointer;
+  }
+
