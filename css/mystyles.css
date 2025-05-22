@@ -69,3 +69,19 @@ section#about.resume-section{
     cursor: pointer;
   }
 
+  .lizcallmebgg{
+    background-image: url("../assets/img/圖圖圖圖.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+     margin: 0;  /* 把 body 預設空隙清掉 */
+    padding: 0;
+}
+
+tr, td {
+  margin: 0;
+  padding: 0;
+  border-spacing: 0;
+  border-collapse: collapse;
+  background-color: transparent; /* 確保不遮住背景圖 */
+}
