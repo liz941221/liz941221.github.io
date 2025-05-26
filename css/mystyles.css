@@ -85,3 +85,9 @@ tr, td {
   border-collapse: collapse;
   background-color: transparent; /* 確保不遮住背景圖 */
 }
+
+* {
+  cursor: url('../assets/img/游標2.png') 16 16, auto !important;
+  
+}
+
