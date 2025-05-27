@@ -10938,7 +10938,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color:	#FFC0CB;
+  background-color:	#FFC0CB !important; 
 }
 
 .dev-icons {
